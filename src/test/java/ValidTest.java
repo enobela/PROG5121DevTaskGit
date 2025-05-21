@@ -15,7 +15,7 @@ public class ValidTest {
     ValidationProgram vald = new ValidationProgram();
    @Test
    public void addTest() {
-         assertEquals(5, vald.add(3, 2));
+         assertEquals(5, vald.add(1, 2));
     } 
     
 }
